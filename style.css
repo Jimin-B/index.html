@@ -12,7 +12,6 @@ a {
 .navbar {
 	display: block;
 	position: fixed;
-	width: 100%;
 	background-color: #fff;
 	padding: 41px 0px;
 	border-bottom: 1px;
