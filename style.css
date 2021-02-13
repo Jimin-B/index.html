@@ -290,6 +290,19 @@ h1 {
 
 @media screen and (max-width: 486px) {
 
+    .section button {
+        color: #ffffff;
+        font-size: 15px;
+        font-weight: 400;
+        text-decoration: none;
+        padding: 14px 24px;
+        border-radius: 25px;
+        border: 1px solid #343434;
+        background-color: #232323;
+        margin-right: 15px;
+        cursor: pointer;
+    }
+
     .contents {
         grid-template-columns: 1fr;
     }
@@ -297,5 +310,7 @@ h1 {
     .contents .grid img {
         width: 100%
     }
+
+    
 
 }
